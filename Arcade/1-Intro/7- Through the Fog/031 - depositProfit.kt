@@ -1,0 +1,1 @@
+fun depositProfit(deposit: Int, rate: Int, threshold: Int): Int = kotlin.math.ceil(kotlin.math.log(threshold / deposit.toDouble(), 1 + rate / 100.0)).toInt()

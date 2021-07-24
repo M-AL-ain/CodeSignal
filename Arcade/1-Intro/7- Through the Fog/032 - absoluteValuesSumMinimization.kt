@@ -1,0 +1,1 @@
+fun absoluteValuesSumMinimization(a: MutableList<Int>): Int = a[a.lastIndex/2]

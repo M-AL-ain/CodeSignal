@@ -1,0 +1,1 @@
+fun firstDigit(inputString: String) = inputString.filter { it in "0123456789" }.first()

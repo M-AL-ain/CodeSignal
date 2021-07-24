@@ -1,0 +1,1 @@
+fun isUnstablePair(filename1: String, filename2: String) = (filename1 < filename2) != (filename1.toLowerCase() < filename2.toLowerCase())

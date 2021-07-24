@@ -1,0 +1,1 @@
+fun sortByLength(inputArray: MutableList<String>): MutableList<String> = inputArray.apply { sortBy { it.length } }

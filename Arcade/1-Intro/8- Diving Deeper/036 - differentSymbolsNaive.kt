@@ -1,0 +1,1 @@
+fun differentSymbolsNaive(s: String): Int = s.asSequence().distinct().count()

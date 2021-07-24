@@ -1,0 +1,1 @@
+fun evenDigitsOnly(n: Int) = n.toString().matches("[0|2|4|6|8]*".toRegex())
