@@ -1,6 +1,6 @@
 
 
-# Arcade: Databases <img src="https://github.com/M-AL-ain/CodeSignal/blob/main/codesignal.png" align="right" width="75px" height="75px" />
+# Arcade: Databases <img src="https://github.com/M-AL-ain/CodeSignal/blob/main/codesignal.png" align="right" width="100px" height="100px" />
 In this repository I gathered all of my MySQL solutions of the tasks from databases section of Codesignal.com Arcade. Below are the Sections
 
 ## 1. [Welcome to the Table](https://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/3-Databases/1-%20Welcome%20to%20the%20Table/01_Welcome_To_The_Table.sql)
