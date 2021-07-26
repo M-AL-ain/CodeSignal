@@ -52,7 +52,7 @@ In this repository I gathered all of my kotlin solutions of the tasks from the c
 ## [08. Diving Deeper](https://github.com/M-AL-ain/CodeSignal/tree/main/Arcade/1-Intro/8-%20Diving%20Deeper)
    - [34. extractEachKth](https://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/1-Intro/8-%20Diving%20Deeper/034%20-%20extractEachKth.kt)
    - [35. firstDigit](https://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/1-Intro/8-%20Diving%20Deeper/035%20-%20firstDigit.kt)
-   - [36. differentSymbolsNaive](hhttps://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/1-Intro/8-%20Diving%20Deeper/036%20-%20differentSymbolsNaive.kt)
+   - [36. differentSymbolsNaive](https://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/1-Intro/8-%20Diving%20Deeper/036%20-%20differentSymbolsNaive.kt)
    - [37. arrayMaxConsecutiveSum](https://github.com/M-AL-ain/CodeSignal/blob/main/Arcade/1-Intro/8-%20Diving%20Deeper/037%20-%20arrayMaxConsecutiveSum.kt)
   
 ## [09. Dark Wilderness](https://github.com/M-AL-ain/CodeSignal/tree/main/Arcade/1-Intro/9-%20Dark%20Wilderness)
